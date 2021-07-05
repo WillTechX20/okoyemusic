@@ -1,0 +1,16 @@
+body {
+background-image: url("images/piano_and_sheet_music.jpg");
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+h1 {
+text-decoration: underline;
+text-decoration-color: aqua;
+}
+
+html {
+background-color: plum;
+text-align: center;
+font-family: system-ui;
+}
